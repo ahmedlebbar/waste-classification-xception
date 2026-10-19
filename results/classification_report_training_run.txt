@@ -1,0 +1,22 @@
+Training run (Feb-Jun 2024): evaluation on the held-out test set of 1,552 images
+accuracy on test set =  95.81 %
+
+              precision    recall  f1-score   support
+
+     battery       0.92      0.99      0.95        77
+  biological       0.99      1.00      1.00       107
+ brown-glass       0.91      0.88      0.89        58
+   cardboard       0.97      0.93      0.95        91
+     clothes       1.00      0.99      0.99       567
+ green-glass       0.94      0.87      0.90        53
+       metal       0.87      0.87      0.87        83
+       paper       0.92      0.97      0.94       102
+     plastic       0.89      0.84      0.86        76
+       shoes       0.98      1.00      0.99       189
+       trash       1.00      0.96      0.98        78
+ white-glass       0.82      0.86      0.84        71
+
+    accuracy                           0.96      1552
+   macro avg       0.93      0.93      0.93      1552
+weighted avg       0.96      0.96      0.96      1552
+

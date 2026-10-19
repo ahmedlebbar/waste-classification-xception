@@ -1,0 +1,20 @@
+Test accuracy: 0.9787 (1552 images)
+
+              precision    recall  f1-score   support
+
+     battery      0.969     0.989     0.979        95
+  biological      1.000     1.000     1.000        99
+ brown-glass      0.982     0.918     0.949        61
+   cardboard      1.000     0.966     0.983        89
+     clothes      0.996     0.992     0.994       533
+ green-glass      0.939     0.984     0.961        63
+       metal      0.973     0.935     0.954        77
+       paper      0.945     0.990     0.967       105
+     plastic      0.974     0.884     0.927        86
+       shoes      0.980     1.000     0.990       198
+       trash      0.971     0.986     0.978        69
+ white-glass      0.915     0.974     0.943        77
+
+    accuracy                          0.979      1552
+   macro avg      0.971     0.968     0.969      1552
+weighted avg      0.979     0.979     0.979      1552
